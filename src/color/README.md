@@ -8,7 +8,7 @@ A Template to remind you of your favorite color
 | Options Id | Description | Type | Default Value |
 |-----|-----|-----|-----|
 | imageVariant | Debian version (use bullseye on local arm64/Apple Silicon): | string | bullseye |
-| favorite | Choose your favorite color. | string | yellow |
+| favorite |Welcome to ASai. Choose your color. | string | yellow |
 
 
 
